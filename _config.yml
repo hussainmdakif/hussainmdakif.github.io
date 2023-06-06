@@ -84,11 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "Lecturer of CSE"
   location         : "Dhaka, Bangladesh"
-  employer         : "https://uttarauniversity.edu.bd/"
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=r8IsKEcAAAAJ
+  employer         : #"https://uttarauniversity.edu.bd/"
+  pubmed           : 
+  googlescholar    : #"https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=r8IsKEcAAAAJ
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Md-Hussain-63/research"
+  researchgate     : #"https://www.researchgate.net/profile/Md-Hussain-63/research"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,21 +96,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/hussainmdakif"
+  github           : #"https://github.com/hussainmdakif"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/hussainmuhammadakif/"
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        : #"https://www.instagram.com/hussainmuhammadakif/"
+  impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/akif-hussain-3659ak"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : #"https://www.linkedin.com/in/akif-hussain-3659ak"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : ##"replacethistwitterhandle"
-  vine             :
+  twitter          : 
+  vine             : 
   weibo            :
   xing             :
   youtube          : "https://www.youtube.com/@akifhussain9680/videos"
