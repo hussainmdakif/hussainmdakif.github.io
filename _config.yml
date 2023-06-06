@@ -84,11 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "Lecturer of CSE"
   location         : "Dhaka, Bangladesh"
-  employer         : #"https://uttarauniversity.edu.bd/"
+  employer         : "https://uttarauniversity.edu.bd/"
   pubmed           : 
-  googlescholar    : #"https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=r8IsKEcAAAAJ
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=r8IsKEcAAAAJ
   email            :
-  researchgate     : #"https://www.researchgate.net/profile/Md-Hussain-63/research"
+  researchgate     : "https://www.researchgate.net/profile/Md-Hussain-63/research"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"https://github.com/hussainmdakif"
+  github           : "https://github.com/hussainmdakif"
   google_plus      :
   keybase          :
-  instagram        : #"https://www.instagram.com/hussainmuhammadakif/"
+  instagram        : "https://www.instagram.com/hussainmuhammadakif/"
   impactstory      : 
   lastfm           :
-  linkedin         : #"https://www.linkedin.com/in/akif-hussain-3659ak"
+  linkedin         : "https://www.linkedin.com/in/akif-hussain-3659ak"
   orcid            : 
   pinterest        :
   soundcloud       :
