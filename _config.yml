@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Md. Akif Hussain"
   avatar           : "profile.png"
-  bio              : "Lecturer of CSE"
-  location         : "Dhaka, Bangladesh"
-  employer         : "https://uttarauniversity.edu.bd"
+  bio              : "Lecturer of Computer Science & Engineering at Uttara University"
+  location         : #"Dhaka, Bangladesh"
+  employer         : #"https://uttarauniversity.edu.bd"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=r8IsKEcAAAAJ"
   email            :
@@ -96,10 +96,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/hussainmdakif"
+  github           : "hussainmdakif"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/hussainmuhammadakif/"
+  instagram        : "hussainmuhammadakif/"
   impactstory      : 
   lastfm           :
   linkedin         : "akif-hussain-3659ak/"
@@ -113,7 +113,7 @@ author:
   vine             : 
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/@akifhussain9680/videos"
+  youtube          : "@akifhussain9680/videos"
   wikipedia        :
 
 
