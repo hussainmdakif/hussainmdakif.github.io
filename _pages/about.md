@@ -24,7 +24,7 @@ courses during this span some of them are- Structured Programming, Database Syst
 * Student tutor at Mathematics & Natural Science department, BRAC University (March 03,2020 - April 20, 2020).
 
 <h2>Projects</h2>
-* UNO Game
+* <h3>UNO Game</h3>
  * Link: <a href="https://github.com/hussainmdakif/18101073_CSE470_Project">Uno Game with three player</a> 
  * Summary: Source code was taken from GitHub. The game had at max 2 player option I added the option of playing with up to 3 players. I have organized the game in MVC 
 pattern & wrote the unit test code.
