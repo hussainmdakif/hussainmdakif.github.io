@@ -25,8 +25,8 @@ courses during this span some of them are- Structured Programming, Database Syst
 
 <h2>Projects</h2>
 * <h3>UNO Game</h3>
- * Link: <a href="https://github.com/hussainmdakif/18101073_CSE470_Project">Uno Game with three player</a> 
- * Summary: Source code was taken from GitHub. The game had at max 2 player option I added the option of playing with up to 3 players. I have organized the game in MVC 
+  * Link: <a href="https://github.com/hussainmdakif/18101073_CSE470_Project">Uno Game with three player</a> 
+  * Summary: Source code was taken from GitHub. The game had at max 2 player option I added the option of playing with up to 3 players. I have organized the game in MVC 
 pattern & wrote the unit test code.
 * Complaint management system
  * Summary: An analysis based project to help people launch complain against any kind abuse or violence from wherever they are. In this project we analyzed the business 
