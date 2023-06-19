@@ -17,11 +17,11 @@ courses during this span some of them are- Structured Programming, Database Syst
 
 
 <h2>Working experience</h2>
-• Lecturer at Computer Science & Engineering department, Uttara University (March 15,2023 – present).
-• Lecturer (contractual) at Computer Science & Engineering department, BRAC University (September 24,2022 – January 12,2023).
-• Junior Executive- Learning Resource at Shikho (May 17,2022 - July 31,2022).
-• Student tutor at Computer Science & Engineering department, BRAC University (August 03,2020 - April 30,2022).
-• Student tutor at Mathematics & Natural Science department, BRAC University (March 03,2020 - April 20, 2020).
+* • Lecturer at Computer Science & Engineering department, Uttara University (March 15,2023 – present).
+* • Lecturer (contractual) at Computer Science & Engineering department, BRAC University (September 24,2022 – January 12,2023).
+* • Junior Executive- Learning Resource at Shikho (May 17,2022 - July 31,2022).
+* • Student tutor at Computer Science & Engineering department, BRAC University (August 03,2020 - April 30,2022).
+* • Student tutor at Mathematics & Natural Science department, BRAC University (March 03,2020 - April 20, 2020).
 
 <h2>Projects</h2>
 • UNO Game
