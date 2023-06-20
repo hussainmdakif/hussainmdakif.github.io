@@ -8,4 +8,4 @@ redirect_from:
 ---
 {% include base_path %}
 
-[Please click here to download the CV.](https://github.com/hussainmdakif/hussainmdakif.github.io/blob/master/files/Md-Akif-Hussain-CV.pdf)
+[Please click here to download the CV.](https://hussainmdakif.github.io/files/Md-Akif-Hussain-CV.pdf)
