@@ -33,7 +33,7 @@ pattern & wrote the unit test code.
 requirements, use cases & related designs.
 
 <h2>Skills</h2>
-* <strong>Programming Language:</strong> JAVA, Python, C, C++
+* <strong>Programming Languages:</strong> JAVA, Python, C, C++
 * <strong>Packages:</strong> Microsoft Excel, Microsoft PowerPoint, Microsoft Word, 
 * <strong>Database Management:</strong> MySQL
 
