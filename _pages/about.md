@@ -25,7 +25,7 @@ courses during this span some of them are- Structured Programming, Database Syst
 
 <h2>Projects</h2>
 * UNO Game
-  * Link: <a href="https://github.com/hussainmdakif/18101073_CSE470_Project">Uno Game with three player</a> 
+  * Link: <a href="https://github.com/hussainmdakif/18101073_CSE470_Project">Uno Game</a> 
   * Summary: Source code was taken from GitHub. The game had at max 2 player option I added the option of playing with up to 3 players. I have organized the game in MVC 
 pattern & wrote the unit test code.
 * Complaint management system
@@ -33,9 +33,9 @@ pattern & wrote the unit test code.
 requirements, use cases & related designs.
 
 <h2>Skills</h2>
-* Programming Language: JAVA, Python, C, C++
-* SQL: MySQL
-* Soft Skills: Team Work, Analyzing situations, Communication skills
+* <h2>Programming Language:</h2> JAVA, Python, C, C++
+* <h2>Pachages:</h2>Microsoft Excel, Microsoft PowerPoint, Microsoft Word, 
+* <h2>Database Management:</h2> MySQL
 
 <h2>Achievements</h2>
 * Awarded with merit based scholarship in BRAC University.
