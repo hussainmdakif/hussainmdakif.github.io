@@ -13,7 +13,9 @@ I am a lecturer of Computer Science & Engineering at Uttara University of Bangla
 University of Bangladesh. My research interests include deep learning, machine learning, image processing, voice recognition and working with data. 
 
 My experience of teaching university students is for almost 3 years across two roles, Lecturer and Student Tutor (Undergraduate Teaching Student). I taught different 
-courses during this span some of them are- Structured Programming, Database Systems, Automata and Computability, Artificial Intelligence etc.  
+courses during this span some of them are- Structured Programming, Database Systems, Automata and Computability, Artificial Intelligence etc.
+
+Apart from these I like travelling and taking photos which you can see <a href="https://www.instagram.com/hussainmuhammadakif/">here</a>. And at times I make tutorials for my beloved students which are present <a href="https://www.youtube.com/@akifhussain9680/videos">here</a>. 
 
 
 <h2>Working experience</h2>
