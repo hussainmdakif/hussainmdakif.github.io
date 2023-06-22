@@ -33,9 +33,9 @@ pattern & wrote the unit test code.
 requirements, use cases & related designs.
 
 <h2>Skills</h2>
-* <h2>Programming Language:</h2> JAVA, Python, C, C++
-* <h2>Pachages:</h2>Microsoft Excel, Microsoft PowerPoint, Microsoft Word, 
-* <h2>Database Management:</h2> MySQL
+* <strong>Programming Language:</strong> JAVA, Python, C, C++
+* <strong>Packages:</strong> Microsoft Excel, Microsoft PowerPoint, Microsoft Word, 
+* <strong>Database Management:</strong> MySQL
 
 <h2>Achievements</h2>
 * Awarded with merit based scholarship in BRAC University.
