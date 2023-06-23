@@ -57,7 +57,7 @@ requirements, use cases & related designs.
       overflow: hidden;
     }
     .skill-bar .skill-bar-fill {
-      background: linear-gradient(to right, #4596ad, #79daf7);
+      background: linear-gradient(to right, #122070, #060d30);
       height: 100%;
       transition: width 0.5s ease-in-out;
     }
