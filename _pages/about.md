@@ -35,7 +35,66 @@ pattern & wrote the unit test code.
 requirements, use cases & related designs.
 
 <h2>Skills</h2>
-* <strong>Programming Languages:</strong> JAVA, Python, C, C++
+<html>
+<head>
+  <title>Skill Bar Chart</title>
+  <style>
+    .skill-bar {
+      width: 100%;
+      max-width: 500px;
+      padding: 10px;
+    }
+    .skill-bar .skill {
+      margin-bottom: 10px;
+    }
+    .skill-bar .skill-name {
+      font-weight: bold;
+    }
+    .skill-bar .skill-bar-wrapper {
+      background-color: #dedddd;
+      height: 7px;
+      border-radius: 10px;
+      overflow: hidden;
+    }
+    .skill-bar .skill-bar-fill {
+      background: linear-gradient(to right, #4596ad, #79daf7);
+      height: 100%;
+      transition: width 0.5s ease-in-out;
+    }
+  </style>
+</head>
+<body>
+  <div class="skill-bar">
+    <div class="skill">
+      <div class="skill-name">Java</div>
+      <div class="skill-bar-wrapper">
+        <div class="skill-bar-fill" style="width: 90%;"></div>
+      </div>
+    </div>
+    <div class="skill">
+      <div class="skill-name">Python</div>
+      <div class="skill-bar-wrapper">
+        <div class="skill-bar-fill" style="width: 85%;"></div>
+      </div>
+    </div>
+    <div class="skill">
+      <div class="skill-name">C++</div>
+      <div class="skill-bar-wrapper">
+        <div class="skill-bar-fill" style="width: 65%;"></div>
+      </div>
+    </div>
+    <div class="skill">
+      <div class="skill-name">C</div>
+      <div class="skill-bar-wrapper">
+        <div class="skill-bar-fill" style="width: 70%;"></div>
+      </div>
+    </div>
+   
+    
+  </div>
+</body>
+</html>
+
 * <strong>Packages:</strong> Microsoft Excel, Microsoft PowerPoint, Microsoft Word, 
 * <strong>Database Management:</strong> MySQL
 
