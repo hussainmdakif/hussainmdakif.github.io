@@ -4,7 +4,7 @@ title: "Research works"
 permalink: /publications/
 author_profile: true
 ---
-<h2>Publications</h2>
+<h2>-> Publications</h2>
 * <h2>"Deep Learning based Bangla Voice to Braille Character Conversion System" - Published in 2022 IEEE 13th Annual Information Technology, Electronics and Mobile 
 Communication Conference (IEMCON)</h2>
 
@@ -13,3 +13,5 @@ Communication Conference (IEMCON)</h2>
   * A 16x4 LCD display is used to generate the braille pattern for the recognized character.
   * <strong>Full text available here:</strong> <a href="https://ieeexplore.ieee.org/document/9946619"> Deep Learning based Bangla Voice to Braille Character Conversion 
 System</a>
+
+<h2>-> Ongoing Works</h2>
