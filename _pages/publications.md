@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Publications"
+title: "Rersearch works"
 permalink: /publications/
 author_profile: true
 ---
-
+<h2>Publications</h2>
 * <h2>"Deep Learning based Bangla Voice to Braille Character Conversion System" - Published in 2022 IEEE 13th Annual Information Technology, Electronics and Mobile 
 Communication Conference (IEMCON)</h2>
 
