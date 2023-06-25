@@ -16,4 +16,4 @@ System</a>
 <h2>-> Ongoing Works</h2>
 
 * A research in the nlp domain focusing on media bias
-* Categorizing Insect Pests from a scale Image Data using image recognition, deep learning and machine learning models
+* Categorizing Insect Pests from a large scale Image Data using image recognition, deep learning and machine learning models
